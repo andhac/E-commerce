@@ -82,7 +82,7 @@ const HomePage = () => {
           />
           <CategoryCard
             name="Women"
-            imageURL="https://girottishoes.com/media/wysiwyg/750x427-category-top-banner-women-shoes-2020-m.jpg"
+            imageURL="https://cdn.shopify.com/s/files/1/0102/6700/0891/files/DFCEB53C-CFF0-4CB7-9228-F3621B39B394_x800.jpg?v=1634896340"
             onClick={() => navigate("/women")}
           />
           <CategoryCard
