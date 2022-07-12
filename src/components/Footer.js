@@ -34,7 +34,7 @@ const Footer = () => {
   return (
     <footer className={classes.footer}>
       <Container className={classes.container}>
-        <Typography>Created by Harsh</Typography>
+        <Typography>Created by Me</Typography>
         <div>
           <IconButton className={classes.btn} aria-label="facebook">
             <Link href={facebookURL} color="inherit" target="_blank">
